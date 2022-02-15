@@ -101,3 +101,14 @@ You’ll upload the Python file for this assignment to your GitHub repository.
 ---
 
 © 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+
+## Results
+
+![alt=""](Images/block1.png)
+
+Having added 10 sets of different blocks.
+
+![alt = ""](Images/validated.png)
+
+Validating the block, and checking different blocks to see if sender and receiver match.
